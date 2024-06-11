@@ -4,7 +4,7 @@ This project is a Django-based API for querying computer specifications from a S
 ### Prerequisites
 
 - Python
-- Djangoю
+- Django
 ### Installation
 
 1. Clone the repository:
