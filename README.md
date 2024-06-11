@@ -15,7 +15,8 @@ This project is a Django-based API for querying computer specifications from a S
 2. Create and activate a virtual environment:
     ```sh
     python -m venv env
-    
+    ```
+    ```
     source env/bin/activate
     
     # On Windows use `env\Scripts\activate`
@@ -25,6 +26,6 @@ This project is a Django-based API for querying computer specifications from a S
     pip install django
     ```
 4. Run the server:
-```sh
-python manage.py runserver
-```
+    ```sh
+    python manage.py runserver
+    ```
